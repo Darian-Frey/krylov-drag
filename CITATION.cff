@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Frey"
+  given-names: "Darian"
+title: "Krylov-drag: Galactic Rotation via Informational Friction"
+version: 1.0.0
+date-released: 2026-03-04
+url: "https://github.com/Darian-Frey/krylov-drag"
+keywords:
+  - Dark Matter Alternatives
+  - M31 Rotation Curve
+  - Krylov Complexity
+  - Entropic Gravity
